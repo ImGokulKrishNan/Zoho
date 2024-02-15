@@ -26,4 +26,21 @@
 	        int len = s.length();
 	        pattern(s, len);
 	    }     
-	} ```
+	}
+
+
+
+
+P         s
+ r       r 
+  o     e  
+   g   m   
+    r m    
+     a     
+    r m    
+   g   m   
+  o     e  
+ r       r 
+P         s
+
+
