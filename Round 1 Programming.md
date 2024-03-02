@@ -30,6 +30,14 @@
 
         `System.out.println(``"c="``+c);`
 
-a=13
-b=24
-c=103
+a = 13
+b = 24
+c = 103
+
+5.
+`int a=1, b=2;`
+`System.out.println(--b - ++a + ++b - --a);`
+
+0
+         
+
