@@ -44,3 +44,25 @@ P         s
 P         s
 
 
+
+public class Main
+{
+public static void main(String[] args) {
+String s=" l|*e*et|c**o*de|";
+	   
+int ans = 0, j=0;
+for (int i=0; i<s.length(); ++i) {
+    
+if (s.charAt(i)=='*' &&j%2==0)
+    ans++;
+if (s.charAt(i)=='|')
+        j++;
+}
+        System.out.print(ans);
+		
+	}
+}
+
+
+ans = 3
+
