@@ -2,7 +2,6 @@
 
 1. Print the word with odd letters as(Programmers)
 
-```
 	class Main {
 	    static void pattern(String s,int len){
 	        int i,j,k;
