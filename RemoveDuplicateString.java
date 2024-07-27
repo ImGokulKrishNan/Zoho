@@ -80,6 +80,7 @@ public class RemoveDuplicates {
             }
             j++;
         }
+
         return String.valueOf(c);
 
     }
